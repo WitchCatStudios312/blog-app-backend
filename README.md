@@ -18,7 +18,7 @@ If you need to install pytest the command is
 
 To run the tests in the command line just run command `pytest` to run all tests
 
-*The unit tests all have to be run one after the other because currently the tests depend on the results of earlier tests (database records)
+*The unit tests have to be run all together in one session because currently the tests depend on the results of earlier tests (virtual database records). The tests will fail if run individually. This is not ideal but it works for now
 
 
 **Running the Server**
