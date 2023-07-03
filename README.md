@@ -1,3 +1,5 @@
+**Set up**
+
 Make sure you have fastapi and uvicorn installed
 
 Here are the commands to install if you are missing any
@@ -5,6 +7,8 @@ Here are the commands to install if you are missing any
 `pip install fastapi`
 
 `pip install uvicorn`
+
+**Testing**
 
 To run the tests you can use pytest, or whatever debugger you normally use
 
