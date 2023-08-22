@@ -1,4 +1,5 @@
 **Challenge Prompt**
+
 Your goal is to build a simple blogging app. It should allow the user to create new blog posts, edit existing posts,
 and view all existing posts. Let’s assume this user is a minimalist; plaintext posts are all that they care about. Let’s also assume this user is
 very private and intends to only host this on their local machine for themselves; no need for authentication.
