@@ -7,6 +7,8 @@ Your teammate has already built most of the UI and is now handing it off to you 
 building. Ideally, your backend should be built using FastAPI and SQLite, however any framework built in Python or PHP is
 acceptable.
 
+-----------------------------------------------
+
 **Set up**
 
 Make sure you have fastapi and uvicorn installed
